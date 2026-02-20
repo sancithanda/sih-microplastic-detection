@@ -1,5 +1,6 @@
 # Smart India Hackathon 2025
 ## Microplastic Detection System (Computer Vision Prototype)
+### College Level Shortlisted – Smart India Hackathon 2025
 
 This repository contains a computer vision based prototype developed for Smart India Hackathon 2025 (College Level Shortlisted).
 
