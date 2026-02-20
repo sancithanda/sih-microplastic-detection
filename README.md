@@ -43,3 +43,4 @@ The system processes video frames of scattered light particles and performs:
 ## How To Run
 
 Install dependencies:
+pip install -r requirements.txt
